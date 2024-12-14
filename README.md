@@ -1,1 +1,2 @@
-# VI-I-U-KHI-N-
+# VI-DIEU-KHIEN
+Code CK Vi Xử Bắn
